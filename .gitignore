@@ -27,6 +27,7 @@ go.work
 ### Go Patch ###
 /vendor/
 /Godeps/
+pyproject.toml
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
